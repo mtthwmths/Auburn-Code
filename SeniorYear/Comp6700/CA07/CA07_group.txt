@@ -1,0 +1,24 @@
+My reviews
+Angela Walker: 		
+	github.com/ajb0008/C07			(3 reviews) done
+Matthew Bianchi: 	
+	github.com/mattbianchi			(3 reviews) done
+Michael Carbaugh: 	
+	github.com/msc0030/stockMarket		(3 reviews) done
+Daniel Golden:		
+	github.com/Neckky/StockMarket 		(7 reviews) done
+Kyle Doud:		
+	github.com/Kyle-Doud/COMP-5700-CA07	(3 reviews) done
+Zhefeng Jiang:		
+	github.com/zhenfengjiang		(3 reviews) 
+Andrew Boos: 		
+	github.com/boos1993			(3 reviews) 
+
+My Reviewers 
+Matthew Bianchi		3 reviews
+Michael Carbaugh	2 reviews
+Daniel Golden		5 reviews
+Ryan Nichols		3 reviews
+Sean Spurlin		3 reviews
+Zachary Parrish		3 reviews
+Thomas Ellison		0 reviews
