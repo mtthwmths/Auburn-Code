@@ -1,0 +1,3 @@
+class Event:
+    #pretty sure something was supposed to go here... c'mon younger Matt...
+    
